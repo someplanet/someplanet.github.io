@@ -32,7 +32,7 @@ body {
     padding: 0 2rem;
 }
 
-.container:hover > div > span {
+.container:active > div > span {
     transform: translateY(-100%);
 }
 
